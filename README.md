@@ -2,6 +2,8 @@
 
 Automatically validates pending Akamai CPS (certificate) changes by updating ACME TXT records.
 
+[See demo here](https://deoxy.net/posts/automating-akamai-cert-validation/)
+
 Requires the Akamai CLI to be set up with the DNS and CPS modules.
 
 ## Setup
